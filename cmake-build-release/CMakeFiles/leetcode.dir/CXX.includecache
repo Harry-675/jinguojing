@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/leetcode_705_hashset_design.h
+
+/Users/jinguojing/Documents/work/leetcode/main.cpp
+iostream
+-
+vector
+-
+stack
+-
+String
+-
+leetcode_705_hashset_design.h
+-
+
+/Users/jinguojing/Documents/work/leetcode/src/leetcode_705_hashset_design.cpp
+leetcode_705_hashset_design.h
+-
+iostream
+-
+
